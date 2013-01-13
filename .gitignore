@@ -1,5 +1,8 @@
 *.py[cod]
 
+#compile python
+*.pyc
+
 # C extensions
 *.so
 
